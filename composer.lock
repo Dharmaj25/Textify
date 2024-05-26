@@ -1,0 +1,63 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c139249a9b757b9f87c8bde2909e7d03",
+    "packages": [
+        {
+            "name": "ankane/mitie",
+            "version": "v0.1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ankane/mitie-php.git",
+                "reference": "c0ba5c85395a51ee3cc318220e4f8d24b41495d1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ankane/mitie-php/zipball/c0ba5c85395a51ee3cc318220e4f8d24b41495d1",
+                "reference": "c0ba5c85395a51ee3cc318220e4f8d24b41495d1",
+                "shasum": ""
+            },
+            "require": {
+                "ext-ffi": ">= 8.0",
+                "php": ">= 8.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Mitie\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSL-1.0"
+            ],
+            "authors": [
+                {
+                    "name": "Andrew Kane",
+                    "email": "andrew@ankane.org"
+                }
+            ],
+            "description": "Named-entity recognition for PHP",
+            "support": {
+                "issues": "https://github.com/ankane/mitie-php/issues",
+                "source": "https://github.com/ankane/mitie-php"
+            },
+            "time": "2023-02-11T18:58:55+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ankane/mitie": "^0.1.4"
+    }
+}
