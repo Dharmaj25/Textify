@@ -18,15 +18,15 @@ This project utilizes a set of APIs provided by RapidAPI and expert.ai for text 
 
 ## APIs Used
 1. **Named Entity Recognition API**
-   - [API Documentation](https://rapidapi.com/sparkbeyond/api/named-entity-recognition1)
+   - [API Documentation](https://rapidapi.com/vbachani/api/namedentityrecognition)
    - Description: This API identifies and classifies entities in unstructured text.
 
 2. **Sentiment Analysis API**
-   - [API Documentation](https://rapidapi.com/sparkbeyond/api/text-sentiment-analysis4)
+   - [API Documentation](https://rapidapi.com/raajreact/api/text-sentiment-analysis4)
    - Description: This API analyzes the sentiment of text and returns a sentiment score.
 
 3. **Relationship Identification API**
-   - [API Documentation](https://nlapi.expert.ai/v2/analyze/standard/en/relations)
+   - [API Documentation](https://docs.expert.ai/nlapi/v2/guide/relation-extraction)
    - Description: This API identifies relationships between entities mentioned in the text.
 
 
